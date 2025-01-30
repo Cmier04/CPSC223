@@ -1,0 +1,10 @@
+[
+    {
+        "origin": "MONO",
+        "destination": "PAR",
+        "flight_number": "56",
+        "departure": "0400",
+        "next_day": "N",
+        "arrival": "1200"
+    }
+]

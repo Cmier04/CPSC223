@@ -1,0 +1,106 @@
+[
+    {
+        "origin": "LAX",
+        "destination": "NYC",
+        "flight_number": "12",
+        "departure": "0602",
+        "next_day": "Y",
+        "arrival": "0104"
+    },
+    {
+        "origin": "LAX",
+        "destination": "NYC",
+        "flight_number": "12",
+        "departure": "1234",
+        "next_day": "N",
+        "arrival": "0624"
+    },
+    {
+        "origin": "LAX",
+        "destination": "NYC",
+        "flight_number": "12",
+        "departure": "1223",
+        "next_day": "N",
+        "arrival": "0924"
+    },
+    {
+        "origin": "NYC",
+        "destination": "LAX",
+        "flight_number": "12",
+        "departure": "1230",
+        "next_day": "N",
+        "arrival": "0450"
+    },
+    {
+        "origin": "LAX",
+        "destination": "NYC",
+        "flight_number": "12",
+        "departure": "1234",
+        "next_day": "N",
+        "arrival": "0500"
+    },
+    {
+        "origin": "LAX",
+        "destination": "NYC",
+        "flight_number": "12",
+        "departure": "1234",
+        "next_day": "N",
+        "arrival": "0506"
+    },
+    {
+        "origin": "LAX",
+        "destination": "NYC",
+        "flight_number": "12",
+        "departure": "1230",
+        "next_day": "N",
+        "arrival": "0502"
+    },
+    {
+        "origin": "LAC",
+        "destination": "NYC",
+        "flight_number": "12",
+        "departure": "1230",
+        "next_day": "N",
+        "arrival": "0400"
+    },
+    {
+        "origin": "nyc",
+        "destination": "lac",
+        "flight_number": "12",
+        "departure": "1230",
+        "next_day": "N",
+        "arrival": "0400"
+    },
+    {
+        "origin": "lax",
+        "destination": "nyc",
+        "flight_number": "12",
+        "departure": "1230",
+        "next_day": "N",
+        "arrival": "0400"
+    },
+    {
+        "origin": "BRX",
+        "destination": "XYZ",
+        "flight_number": "1234",
+        "departure": "0405",
+        "next_day": "Y",
+        "arrival": "1234"
+    },
+    {
+        "origin": "lax",
+        "destination": "nyc",
+        "flight_number": "23",
+        "departure": "1230",
+        "next_day": "N",
+        "arrival": "0430"
+    },
+    {
+        "origin": "adqw",
+        "destination": "mmsad",
+        "flight_number": "1230",
+        "departure": "0430",
+        "next_day": "N",
+        "arrival": "2309"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "origin": "mor",
+        "destination": "mad",
+        "flight_number": "2414",
+        "departure": "2134",
+        "next_day": "N",
+        "arrival": "2234"
+    }
+]
